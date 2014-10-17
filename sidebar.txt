@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kxu:home|Door43 (kxu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kxu|d43-kxu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kxu/archive/master.zip|d43-kxu.zip]]
+
+**Recent Changes**
+{{changes>ns = kxu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kxu|Ethnologue data]]
+
